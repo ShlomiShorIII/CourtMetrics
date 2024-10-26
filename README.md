@@ -1,3 +1,3 @@
 # CourtMetrics
 
-#Experimental code for the CourtMetrics software
+Experimental code for the CourtMetrics software
